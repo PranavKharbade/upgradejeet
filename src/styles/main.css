@@ -15,12 +15,7 @@ html, body {
   text-decoration: none;
   border: 1px solid rgb(24, 24, 80);
 }
-.pagecenter {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-}
+
 .error {
   color: red;
   font-size: 0.8rem;
