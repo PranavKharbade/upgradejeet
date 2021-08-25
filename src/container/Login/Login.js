@@ -104,7 +104,7 @@ export class Login extends Component {
             </div>
           </div>
           <div className="row">
-            <div className="col-sm-12 center mt-2">
+            <div className="col-sm-12 center mt-2"style={{textAlign: "center"}}>
               <button type="submit" className="button" onClick={this.loginForm}>Login</button>
             </div>
           </div>
